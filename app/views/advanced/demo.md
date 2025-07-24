@@ -21,7 +21,7 @@ Post it on YouTube afterwards - it can be unlisted if you'd like.
 
 Share your project online! Reddit is *heavily* preferred, but Printables is also fine if your project has 3D printed parts with it too.
 
-An example post is [@Cyao's IcePi Zero](https://www.reddit.com/r/embedded/comments/1kwx5p7/i_built_the_fpga_raspberry_pi_zero_equivalent/) - he's a 17-year old Hack Clubber from France!
+An example post is [@Cyao's Icepi Zero](https://www.reddit.com/r/embedded/comments/1kwx5p7/i_built_the_fpga_raspberry_pi_zero_equivalent/) - he's a 17-year old Hack Clubber from France!
 
 ### 4. Make a magazine page!
 
