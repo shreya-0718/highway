@@ -46,4 +46,6 @@ Once you've done all of that, fill out the following form! You'll get an email o
 
 Swag will be mailed out, please do not ask for tracking until after Highway is over.
 
+---
+
 That should be it! Please ask in #highway if you have any questions!
